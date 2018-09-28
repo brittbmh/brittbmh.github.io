@@ -4,7 +4,7 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
-  backgound-color: #f2f3f4;
+
 }
 
 body {
@@ -12,6 +12,7 @@ body {
   background-position: center top;
   background-size: cover;
   margin: 0;
+  backgound-color: #f2f3f4;
 }
 
 h1 {
@@ -26,5 +27,5 @@ h1 {
   color: #346ea8;
   
 .jobs {
-  color: #3a9674;
+  color: #476684;
 }
