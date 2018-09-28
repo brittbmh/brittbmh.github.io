@@ -13,6 +13,13 @@ body {
   margin: 0;
 }
 
+h1 {
+  justify-content: center;
+
+.contacts {
+  margin: 20px;
+  justify-content: center;
+}  
 
 .title {
   color: #00ABA9
