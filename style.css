@@ -15,6 +15,10 @@ body {
   background-color: #e6eef7;
 }
 
+header {
+  display: inline;
+}
+
 h1 {
   font-family: 'Raleway', sans-serif;
 }
@@ -23,9 +27,7 @@ h1 {
   font-family: 'Raleway', sans-serif;
 }  
 
-.beach {
-  justify-content: 
-}
+
 
 .photo {
   border: 5px solid #000000;
