@@ -16,12 +16,11 @@ body {
 }
 
 h1 {
-  justify-content: center;
+  font-family: 'Trebuchet', sans-serif;
 }
 
 .contacts {
-  margin: 20px;
-  justify-content: center;
+  font-family: 'Trebuchet', sans-serif;
 }  
 
 .title {
