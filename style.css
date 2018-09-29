@@ -16,12 +16,20 @@ body {
 }
 
 h1 {
-  font-family: 'Trebuchet', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 
 .contacts {
-  font-family: 'Trebuchet', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }  
+
+.beach {
+  justify-content: 
+}
+
+.photo {
+  border: 5px solid #000000;
+}
 
 .title {
   color: #346ea8;
