@@ -8,23 +8,22 @@ html, body {
 }
 
 body {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Questrial', sans-serif;
   background-position: center top;
   background-size: cover;
   margin: 30;
   background-color: #e6eef7;
 }
 
-h1 {
-  font-family: 'Raleway', sans-serif;
+header {
+  display: flex;
+  justify-content: center;
 }
-
-.contacts {
-  font-family: 'Raleway', sans-serif;
-}  
 
 .title {
   color: #346ea8;
+  text-decoration: underline;
+  
 }
 
 .jobs {
